@@ -33,14 +33,14 @@ pip install -r requirements.txt
 Run the tool from the command line:
 
 ```bash
-python3 decryptor.py <path>
+python3 Decryptor.py <path>
 ```
 
 ### Parameters:
 path: Path to the folder containing the dbx and hostkeys files.
 
 ```bash
-python decryptor.py /home/user/.dropbox/instance1
+python Decryptor.py /home/user/.dropbox/instance1
 ```
 
 ## Example
